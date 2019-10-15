@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+operator
+matplotlib
+seaborn
+sklearn
